@@ -8,8 +8,14 @@ app.use(cors());
 app.use(express.json());
 
 const port =process.env.PORT || 5000;
+const toys=require('./toys.json');
+//[{id:1, name:'mohiuddin',email:'saddammd203@gmail.com'}]
 app.get('/', (req,res)=>{
     res.send ("server is running")
+})
+
+app.get('/toys',(req,res)=>{
+    res.send(toys);
 })
 
 
