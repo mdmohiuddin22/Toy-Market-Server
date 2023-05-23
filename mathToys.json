@@ -1,0 +1,18 @@
+ [
+      {
+        "id": 1,
+        "picture": "https://i.ibb.co/B3RLP2d/premium-photo-1661292099839-1e89fe3fa727-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A.jpg",
+        "name": "Cash Register",
+        "price": "$19.99",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "picture": "https://i.ibb.co/HqRfFHy/stock-photo-wooden-figures-of-the-montessori-methodology-math-kids-counting-puzzle-for-kids-educatio.jpg",
+        "name": "Number game board",
+        "price": "$14.99",
+        "rating": 4.2
+      }
+    ]
+  
+  
